@@ -9,7 +9,7 @@ Implementação de comunicação UDP utilizando a biblioteca Socket na linguagem
 linha de comando no terminal de cada um dos clientes conectados à sala.
 
 ### Vídeo do programa
-Link: _https://drive.google.com/file/d/1-geHDXtXxNPqR8PzOMX_egfZdcNWF0dW/view?usp=sharing_
+Link: _[https://drive.google.com/file/d/1-geHDXtXxNPqR8PzOMX_egfZdcNWF0dW/view?usp=sharing](https://drive.google.com/file/d/1rGpV4jqD_GIdyVnba3O1U0-ezjbr49Ll/view?usp=drive_link)_
 
 ### Como rodar o programa
 
